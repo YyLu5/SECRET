@@ -14,7 +14,7 @@
 # install devtools if necessary
 install.packages('devtools')
 
-# install the SPADE package
+# install the SECRET package
 devtools::install_github('YyLu5/SECRET')
 
 # load
